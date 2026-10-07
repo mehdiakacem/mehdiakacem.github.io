@@ -72,3 +72,12 @@ section a {
   color: inherit;
   text-underline-offset: 4px;
 }
+
+.project-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.project-description {
+  margin: 8px 0 0;
+}
