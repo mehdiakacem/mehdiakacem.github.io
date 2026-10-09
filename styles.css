@@ -79,6 +79,10 @@ section a {
   font-weight: 600;
 }
 
+.project + .project {
+  margin-top: 24px;
+}
+
 .project-description {
   margin: 8px 0 0;
 }
